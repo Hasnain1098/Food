@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Food Blog Website_Semester Project",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.6",
@@ -24,5 +24,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasnain1098/Food.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hasnain1098/Food/issues"
+  },
+  "homepage": "https://github.com/Hasnain1098/Food#readme"
 }
